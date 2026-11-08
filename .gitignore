@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Old prototypes
+old/
+
+# Recordings: keep the folder, ignore its contents
+recordings/*
+!recordings/.keep
